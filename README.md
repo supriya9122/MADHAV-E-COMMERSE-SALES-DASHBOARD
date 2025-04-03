@@ -23,3 +23,31 @@ The Owner of Madhav Store wants us to help them create a dashboard to track and 
 -How does the profit from Accessories compare to Sarees?
 
 -Dashboard Interaction <a href="https://github.com/supriya9122/MADHAV-E-COMMERSE-SALES-DASHBOARD/blob/main/MADHAV%20E%20COMMERSE%20SALE%20DASHBOARD.pdf">View Dashboard</a>
+
+##Project Learnings
+-Created interactive dashboard to track and analyze online sales data
+-Used complex parameters to drill down in worksheet and customization using filters and slicer
+-Created connections, join new tables, calculations to manipulate data and enable user driven 
+ parameters for visualizations
+-Used different types of customized visualization (bar chart, pie chart, donut chart, clustered 
+ bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+
+## Dashboard
+![Screenshot (433)](https://github.com/user-attachments/assets/2bdc7d5d-8234-4d32-bafe-8c561542b4ce)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
