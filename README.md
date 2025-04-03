@@ -25,7 +25,7 @@ The Owner of Madhav Store wants us to help them create a dashboard to track and 
 
 -Dashboard Interaction <a href="https://github.com/supriya9122/MADHAV-E-COMMERSE-SALES-DASHBOARD/blob/main/MADHAV%20E%20COMMERSE%20SALE%20DASHBOARD.pdf">View Dashboard</a>
 
-##Project Learnings
+## Project Learnings
 - Created interactive dashboard to track and analyze online sales data
 - Used complex parameters to drill down in worksheet and customization using filters and slicer
 - Created connections, join new tables, calculations to manipulate data and enable user driven 
