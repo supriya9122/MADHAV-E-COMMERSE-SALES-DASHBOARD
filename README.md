@@ -1,4 +1,5 @@
-# MADHAV E-COMMERSE SALES DASHBOARD (interactive Dashboard)
+# MADHAV E-COMMERSE SALES DASHBOARD (interactive Dashboard using Power Bi
+)
 ## Project objective
 The Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
